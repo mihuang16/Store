@@ -1,0 +1,45 @@
+body {
+    text-align:center;
+    background-color:lightblue;
+    color:darkgreen;
+}
+
+h1 {
+    text-decoration:underline;
+}
+
+::-webkit-input-placeholder {
+   font-style: italic;
+   font-family:'Anonymous Pro', monospace;
+   color:green;
+}
+
+#input {
+    display:flex;
+    justify-content:space-around;
+}
+
+input {
+    color:darkgreen;
+    font-family:'Anonymous Pro', monospace;
+}
+
+button {
+    color:green;
+    font-family:'Anonymous Pro', monospace;
+}
+
+#cart {
+    background-color:white;
+}
+
+#stored {
+    display:flex;
+    justify-content:space-around;
+}
+
+#size {
+    width:250px;
+    height:250px;
+}
+
